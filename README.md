@@ -9,4 +9,5 @@ Segments have physical properties like mass and spring force. They interact with
 
 raylib and c++
 
+video for visualization: 
 https://www.youtube.com/watch?v=2RArsjvccdc
