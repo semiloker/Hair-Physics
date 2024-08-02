@@ -9,7 +9,7 @@
 const int winHeight = 1000;
 const int winWidth = 1000;
 int hairCount = 1;
-int segmentsPerHair = 10;
+const int segmentsPerHair = 10;
 float segmentLength = 20.0f;
 
 class Hair
@@ -20,8 +20,8 @@ public:
     std::vector<std::vector<Vector2>> hairSegments;
     std::vector<std::vector<Vector2>> hairVelocities;
     Vector2 prevPlayerPos = { winWidth / 2, winHeight / 2 };
-    bool isPlayerVisible = true; // Variable to track visibility
-    bool drawYellowLine = false; // Variable to track yellow line drawing
+    bool isPlayerVisible = true;
+    bool drawYellowLine = false;
 
     Hair()
     {
