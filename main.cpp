@@ -8,7 +8,7 @@
 
 const int winHeight = 1000;
 const int winWidth = 1000;
-int hairCount = 1;
+int hairCount = 1; // 
 const int segmentsPerHair = 10;
 float segmentLength = 20.0f;
 
