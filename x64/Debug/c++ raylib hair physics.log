@@ -1,4 +1,15 @@
 ﻿  main.cpp
-  c++ raylib hair physics.vcxproj -> C:\Users\smlkr\Desktop\c++ raylib hair physics\x64\Debug\c++ raylib hair physics.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
+C:\Users\smlkr\Desktop\c++ raylib hair physics\main.cpp(168,54): error C3861: 'Vector2Lerp': identifier not found
+C:\Users\smlkr\Desktop\c++ raylib hair physics\main.cpp(168,79): error C3861: 'Vector2Lerp': identifier not found
+C:\Users\smlkr\Desktop\c++ raylib hair physics\main.cpp(168,42): error C3861: 'Vector2Lerp': identifier not found
+C:\Users\smlkr\Desktop\c++ raylib hair physics\main.cpp(168,121): error C3861: 'Vector2Lerp': identifier not found
+C:\Users\smlkr\Desktop\c++ raylib hair physics\main.cpp(168,146): error C3861: 'Vector2Lerp': identifier not found
+C:\Users\smlkr\Desktop\c++ raylib hair physics\main.cpp(168,109): error C3861: 'Vector2Lerp': identifier not found
+C:\Users\smlkr\Desktop\c++ raylib hair physics\main.cpp(168,30): error C3861: 'Vector2Lerp': identifier not found
+C:\Users\smlkr\Desktop\c++ raylib hair physics\main.cpp(169,54): error C3861: 'Vector2Lerp': identifier not found
+C:\Users\smlkr\Desktop\c++ raylib hair physics\main.cpp(169,79): error C3861: 'Vector2Lerp': identifier not found
+C:\Users\smlkr\Desktop\c++ raylib hair physics\main.cpp(169,42): error C3861: 'Vector2Lerp': identifier not found
+C:\Users\smlkr\Desktop\c++ raylib hair physics\main.cpp(169,121): error C3861: 'Vector2Lerp': identifier not found
+C:\Users\smlkr\Desktop\c++ raylib hair physics\main.cpp(169,146): error C3861: 'Vector2Lerp': identifier not found
+C:\Users\smlkr\Desktop\c++ raylib hair physics\main.cpp(169,109): error C3861: 'Vector2Lerp': identifier not found
+C:\Users\smlkr\Desktop\c++ raylib hair physics\main.cpp(169,30): error C3861: 'Vector2Lerp': identifier not found
